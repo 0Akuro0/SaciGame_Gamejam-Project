@@ -1,6 +1,6 @@
 // Codigo para quando objeto eh criado (variaveis globais e coisa do tipo) 
 movespeed = 10;
-health = 100;
+hp = 100;
 damage = 20;
 alarm[0] = 4;
 
@@ -26,3 +26,6 @@ function movement(){
 }
 
 //
+function takeDamage(damage){
+	hp -= damage	
+}

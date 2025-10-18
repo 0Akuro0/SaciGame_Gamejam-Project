@@ -10,8 +10,8 @@
   "name":"strike",
   "overriddenProperties":[],
   "parent":{
-    "name":"prototype",
-    "path":"prototype.yyp",
+    "name":"strikes",
+    "path":"folders/Objetos/strikes.yy",
   },
   "parentObjectId":null,
   "persistent":false,

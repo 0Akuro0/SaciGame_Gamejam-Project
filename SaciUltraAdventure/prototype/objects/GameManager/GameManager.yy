@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"mrFrog2",
+  "%Name":"GameManager",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"mrFrog2",
+  "name":"GameManager",
   "overriddenProperties":[],
   "parent":{
-    "name":"enemy",
-    "path":"folders/Objetos/enemy.yy",
+    "name":"prototype",
+    "path":"prototype.yyp",
   },
-  "parentObjectId":{
-    "name":"enemy_father",
-    "path":"objects/enemy_father/enemy_father.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"Sprite5",
+    "path":"sprites/Sprite5/Sprite5.yy",
   },
   "spriteMaskId":null,
   "visible":true,

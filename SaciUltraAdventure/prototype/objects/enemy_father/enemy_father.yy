@@ -10,8 +10,8 @@
   "name":"enemy_father",
   "overriddenProperties":[],
   "parent":{
-    "name":"prototype",
-    "path":"prototype.yyp",
+    "name":"enemy",
+    "path":"folders/Objetos/enemy.yy",
   },
   "parentObjectId":null,
   "persistent":false,

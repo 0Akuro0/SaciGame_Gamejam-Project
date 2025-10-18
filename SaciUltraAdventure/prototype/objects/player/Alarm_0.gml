@@ -1,2 +1,2 @@
 instance_create_layer(x, y, "Instances", airslash);
-alarm[0] = 4
+alarm[0] = 40

@@ -10,8 +10,8 @@
   "name":"player",
   "overriddenProperties":[],
   "parent":{
-    "name":"prototype",
-    "path":"prototype.yyp",
+    "name":"player",
+    "path":"folders/Objetos/player.yy",
   },
   "parentObjectId":null,
   "persistent":false,

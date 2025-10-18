@@ -8,8 +8,8 @@
   "name":"mrFrog",
   "overriddenProperties":[],
   "parent":{
-    "name":"prototype",
-    "path":"prototype.yyp",
+    "name":"enemy",
+    "path":"folders/Objetos/enemy.yy",
   },
   "parentObjectId":{
     "name":"enemy_father",

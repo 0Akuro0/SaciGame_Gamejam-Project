@@ -1,5 +1,6 @@
-pim = player
 movespeed = 2
+
+damage = 100
 
 alatime = 10
 
