@@ -1,1 +1,6 @@
-move_towards_point(pim.x, pim.y, movespeed)
+var debugMessage = string(self.id) + " Health: " + string(self.health)
+show_debug_message(debugMessage);
+
+if (self.health <= 0){
+	instance_destroy(self);
+}
