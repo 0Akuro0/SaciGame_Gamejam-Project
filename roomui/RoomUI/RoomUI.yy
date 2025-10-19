@@ -1,0 +1,27 @@
+{
+  "$GMRoomUI":"",
+  "%Name":"RoomUI",
+  "children":[
+    {"$GMRUILayer":"v1","%Name":"Cardlayer","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"FlexPanel_1","alignItems":2,"children":[
+            {"$GMRFlexPanel":"","%Name":"FlexPanel_2","alignItems":2,"children":[
+                {"$GMRInstance":"v2","%Name":"inst_26058731","colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_26058731","objectId":{"name":"Card2","path":"objects/Card2/Card2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+              ],"flexDirection":2,"height":{"unit":2,"value":75.0,},"justifyContent":1,"marginLeft":{"unit":2,"value":5.0,},"marginRight":{"unit":2,"value":10.0,},"name":"FlexPanel_2","nodeColour":4285198920,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":2,"value":35.0,},},
+            {"$GMRFlexPanel":"","%Name":"FlexPanel_3","alignItems":2,"children":[
+                {"$GMRInstance":"v2","%Name":"inst_3DF24FD7","colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3DF24FD7","objectId":{"name":"Card3","path":"objects/Card3/Card3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+              ],"flexDirection":2,"height":{"unit":2,"value":75.0,},"justifyContent":1,"marginLeft":{"unit":2,"value":10.0,},"marginRight":{"unit":2,"value":5.0,},"name":"FlexPanel_3","nodeColour":4285198920,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":2,"value":35.0,},},
+            {"$GMRInstance":"v2","%Name":"inst_7CE9414D","colour":2533359615,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7CE9414D","objectId":{"name":"Card1","path":"objects/Card1/Card1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+          ],"flexDirection":2,"height":{"unit":2,"value":75.0,},"justifyContent":1,"name":"FlexPanel_1","nodeColour":4294068379,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":2,"value":75.0,},},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"Cardlayer","nodeColour":4282961138,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+  ],
+  "locked":false,
+  "name":"RoomUI",
+  "parent":{
+    "name":"prototype",
+    "path":"prototype.yyp",
+  },
+  "resourceType":"GMRoomUI",
+  "resourceVersion":"2.0",
+  "viewspaceChildren":[],
+  "visible":true,
+}
